@@ -1,0 +1,14 @@
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad2\permutacije\permutacije\bin\Debug\net8.0\permutacije.exe
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad2\permutacije\permutacije\bin\Debug\net8.0\permutacije.deps.json
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad2\permutacije\permutacije\bin\Debug\net8.0\permutacije.runtimeconfig.json
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad2\permutacije\permutacije\bin\Debug\net8.0\permutacije.dll
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad2\permutacije\permutacije\bin\Debug\net8.0\permutacije.pdb
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad2\permutacije\permutacije\obj\Debug\net8.0\permutacije.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad2\permutacije\permutacije\obj\Debug\net8.0\permutacije.AssemblyInfoInputs.cache
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad2\permutacije\permutacije\obj\Debug\net8.0\permutacije.AssemblyInfo.cs
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad2\permutacije\permutacije\obj\Debug\net8.0\permutacije.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad2\permutacije\permutacije\obj\Debug\net8.0\permutacije.dll
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad2\permutacije\permutacije\obj\Debug\net8.0\refint\permutacije.dll
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad2\permutacije\permutacije\obj\Debug\net8.0\permutacije.pdb
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad2\permutacije\permutacije\obj\Debug\net8.0\permutacije.genruntimeconfig.cache
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad2\permutacije\permutacije\obj\Debug\net8.0\ref\permutacije.dll
