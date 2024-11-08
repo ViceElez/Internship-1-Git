@@ -1,0 +1,14 @@
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad3\centriranjeRecenice\centriranjeRecenice\bin\Debug\net8.0\centriranjeRecenice.exe
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad3\centriranjeRecenice\centriranjeRecenice\bin\Debug\net8.0\centriranjeRecenice.deps.json
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad3\centriranjeRecenice\centriranjeRecenice\bin\Debug\net8.0\centriranjeRecenice.runtimeconfig.json
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad3\centriranjeRecenice\centriranjeRecenice\bin\Debug\net8.0\centriranjeRecenice.dll
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad3\centriranjeRecenice\centriranjeRecenice\bin\Debug\net8.0\centriranjeRecenice.pdb
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad3\centriranjeRecenice\centriranjeRecenice\obj\Debug\net8.0\centriranjeRecenice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad3\centriranjeRecenice\centriranjeRecenice\obj\Debug\net8.0\centriranjeRecenice.AssemblyInfoInputs.cache
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad3\centriranjeRecenice\centriranjeRecenice\obj\Debug\net8.0\centriranjeRecenice.AssemblyInfo.cs
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad3\centriranjeRecenice\centriranjeRecenice\obj\Debug\net8.0\centriranjeRecenice.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad3\centriranjeRecenice\centriranjeRecenice\obj\Debug\net8.0\centriranjeRecenice.dll
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad3\centriranjeRecenice\centriranjeRecenice\obj\Debug\net8.0\refint\centriranjeRecenice.dll
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad3\centriranjeRecenice\centriranjeRecenice\obj\Debug\net8.0\centriranjeRecenice.pdb
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad3\centriranjeRecenice\centriranjeRecenice\obj\Debug\net8.0\centriranjeRecenice.genruntimeconfig.cache
+C:\Users\leona\Desktop\Vice\dumpInternship-2425\domaci1\zad3\centriranjeRecenice\centriranjeRecenice\obj\Debug\net8.0\ref\centriranjeRecenice.dll
